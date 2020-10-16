@@ -437,8 +437,8 @@
     *********/
     // labels
     // TODO
-    "item.music-block.pitch": "Pitch",
-    "item.music-block.drum-type": "Drum type",
+    "item.music-block.pitch": "음 높이",
+    "item.music-block.drum-type": "드럼 유형",
 
 
     /*********
